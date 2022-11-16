@@ -1,6 +1,6 @@
-🌲🌲🌲🌲🌲🌲🌲🌲 <br/>
-🌲🌲🌲💻🐅🌲🌲🌲 <br/>
-🌲🌲🌲🌲🌲🌲🌲🌲 <br/>
+<p align="center">🌲 🌲 🌲 🌲 🌲 🌲 🌲 🌲</p>
+<p align="center">🌲 🌲 🌲 💻 🐅 🌲 🌲 🌲</p>
+<p align="center">🌲 🌲 🌲 🌲 🌲 🌲 🌲 🌲</p>
 
 <!--
 **panoplied/panoplied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
