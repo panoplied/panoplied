@@ -6,31 +6,37 @@
 <br/>
 
 <div align="center">
-<picture align="center">
-  <source
-    srcset="https://github-readme-stats-three-tawny-50.vercel.app/api?username=panoplied&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-three-tawny-50.vercel.app/api?username=panoplied&show_icons=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-three-tawny-50.vercel.app/api?username=panoplied&show_icons=true&theme=default" />
-</picture>
+  <picture>
+    <img src="https://count.getloli.com/@panoplied?name=panoplied&theme=booru-lewd&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=0" />
+  </picture>
 </div>
 
 <div align="center">
-<picture align="center">
-  <source
-    srcset="https://github-readme-stats-three-tawny-50.vercel.app/api/top-langs/?username=panoplied&theme=dark&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,scss,html"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-three-tawny-50.vercel.app/api/top-langs/?username=panoplied&theme=default&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,scss,html"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-three-tawny-50.vercel.app/api/top-langs/?username=panoplied&theme=default&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,scss,html" />
-</picture>
+    <picture>
+    <source
+      srcset="https://github-readme-stats-three-tawny-50.vercel.app/api/top-langs/?username=panoplied&langs_count=16&hide=html%2Ccss%2Cscss&size_weight=0.5&count_weight=0.5&hide_border=true&hide_title=true&layout=compact&theme=dark&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-three-tawny-50.vercel.app/api/top-langs/?username=panoplied&langs_count=16&hide=html%2Ccss%2Cscss&size_weight=0.5&count_weight=0.5&hide_border=true&hide_title=true&layout=compact&theme=default&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-three-tawny-50.vercel.app/api/top-langs/?username=panoplied&langs_count=16&hide=html%2Ccss%2Cscss&size_weight=0.5&count_weight=0.5&hide_border=true&hide_title=true&layout=compact&theme=dark&bg_color=00000000" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-three-tawny-50.vercel.app/api?username=panoplied&show_icons=true&hide_title=true&theme=dark&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-three-tawny-50.vercel.app/api?username=panoplied&show_icons=true&hide_title=true&theme=default&hide_border=true&bg_color=00000000"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-three-tawny-50.vercel.app/api?username=panoplied&show_icons=true&hide_title=true&theme=default&hide_border=true&bg_color=00000000" />
+  </picture>
 </div>
 
 <h1></h1>
@@ -54,3 +60,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
