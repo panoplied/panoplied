@@ -7,7 +7,7 @@
 
 <div align="center">
   <picture>
-    <img src="https://count.getloli.com/@panoplied?name=panoplied&theme=booru-lewd&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=0" />
+    <img src="https://count.getloli.com/@panoplied?name=panoplied&theme=booru-lewd&padding=8&offset=0&align=top&scale=0.5&pixelated=1&darkmode=0" />
   </picture>
 </div>
 
