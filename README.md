@@ -25,6 +25,7 @@
   </picture>
 </div>
 
+<!--
 <div align="center">
   <picture>
     <source
@@ -38,6 +39,7 @@
     <img src="https://github-readme-stats-three-tawny-50.vercel.app/api?username=panoplied&show_icons=true&hide_title=true&theme=default&hide_border=true&bg_color=00000000" />
   </picture>
 </div>
+-->
 
 <h1></h1>
 <br/>
