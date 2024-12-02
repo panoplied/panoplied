@@ -41,12 +41,14 @@
 </div>
 -->
 
+<!--
 <h1></h1>
 <br/>
 
 <div align="center">
   <img src="https://64.media.tumblr.com/60109c9f749f0e53a8ed345b669c1348/tumblr_oe3pvon0Ym1r1xpwxo1_400.gif" />
 </div>
+-->
 
 <!--
 **panoplied/panoplied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
