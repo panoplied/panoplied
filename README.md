@@ -14,14 +14,14 @@
 <div align="center">
     <picture>
     <source
-      srcset="https://github-readme-stats-three-tawny-50.vercel.app/api/top-langs/?username=panoplied&langs_count=20&hide=html%2Ccss%2Cscss&size_weight=0.5&count_weight=0.5&hide_border=true&hide_title=true&layout=compact&theme=dark&bg_color=00000000&exclude_repo=FastAPI-React-Fullstack-App-Example-Crypto-Tracker"
+      srcset="https://github-readme-stats-three-tawny-50.vercel.app/api/top-langs/?username=panoplied&langs_count=20&hide=html%2Ccss%2Cscss&size_weight=0.5&count_weight=0.5&hide_border=true&hide_title=true&layout=compact&theme=dark&bg_color=00000000"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-three-tawny-50.vercel.app/api/top-langs/?username=panoplied&langs_count=20&hide=html%2Ccss%2Cscss&size_weight=0.5&count_weight=0.5&hide_border=true&hide_title=true&layout=compact&theme=default&bg_color=00000000&exclude_repo=FastAPI-React-Fullstack-App-Example-Crypto-Tracker"
+      srcset="https://github-readme-stats-three-tawny-50.vercel.app/api/top-langs/?username=panoplied&langs_count=20&hide=html%2Ccss%2Cscss&size_weight=0.5&count_weight=0.5&hide_border=true&hide_title=true&layout=compact&theme=default&bg_color=00000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-three-tawny-50.vercel.app/api/top-langs/?username=panoplied&langs_count=20&hide=html%2Ccss%2Cscss&size_weight=0.5&count_weight=0.5&hide_border=true&hide_title=true&layout=compact&theme=dark&bg_color=00000000&exclude_repo=FastAPI-React-Fullstack-App-Example-Crypto-Tracker" />
+    <img src="https://github-readme-stats-three-tawny-50.vercel.app/api/top-langs/?username=panoplied&langs_count=20&hide=html%2Ccss%2Cscss&size_weight=0.5&count_weight=0.5&hide_border=true&hide_title=true&layout=compact&theme=dark&bg_color=00000000" />
   </picture>
 </div>
 
